@@ -24,11 +24,9 @@ O documento está dividido nas seguintes seções:
 
 2. **Diagrama de Casos de Uso**  
    Representa graficamente as interações entre os atores (Usuário e Desenvolvedor) e as funcionalidades do sistema.  
-   ![Diagrama de Casos de Uso](Figures/diagrama_caso_uso.drawio.png)
 
 3. **Diagrama de Sequência**  
    Detalha o fluxo de interações entre o Usuário e os componentes do sistema (SPA, GitHub, LinkedIn, servidor de imagens).  
-   ![Diagrama de Sequência](Figures/diagrama_sequencia.png)
 
 4. **Conclusão**  
    Considerações sobre o desenvolvimento, usabilidade do sistema e possibilidades de melhorias futuras.
